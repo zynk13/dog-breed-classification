@@ -3,6 +3,10 @@ Transfer learn the Inception V3 CNN to classify input images to their respective
 
 Used Keras with a Tensorflow backend in Python.
 
+Training :
+
+![image of training and validation accuracy](Train-1.png "Training and Validation accuracy")
+
 predict.py :
 
 	- Used to make preditions on the input image, classifying it into one of the 133 dog breeds.
