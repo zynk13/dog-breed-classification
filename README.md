@@ -1,6 +1,8 @@
 # dog-breed-classification
 Transfer learn the Inception V3 CNN to classify input images to their respective dog breeds among the possible 133
 
+Used Keras with a Tensorflow backend in Python.
+
 predict.py :
 
 	- Used to make preditions on the input image, classifying it into one of the 133 dog breeds.
